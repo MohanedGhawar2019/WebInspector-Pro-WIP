@@ -1,8 +1,6 @@
 # WebInspector Pro (WIP)
 
-<p align="center">
-  <img src="icon.ico" alt="WebInspector Pro Logo" width="128">
-</p>
+
 
 ## 🚀 Overview
 
